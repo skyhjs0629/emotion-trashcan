@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 프로젝트 'Emotion TrahsCan'
 
-> 바로가기 <a href="https://skyhjs0629.github.io/emotion-trashcan/" target="_blank">https://skyhjs0629.github.io/emotion-trashcan/</a>
+> 바로가기 https://skyhjs0629.github.io/emotion-trashcan/
 
 ![emotion-result](https://user-images.githubusercontent.com/62992641/231669981-97848a8e-ae6f-4ea1-adc6-6283bf51c45b.png)
 
