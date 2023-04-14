@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/emotion-trashcan/static/css/main.ccc24574.css",
+    "main.js": "/emotion-trashcan/static/js/main.2d707f5d.js",
+    "static/media/star.svg": "/emotion-trashcan/static/media/star.87123e3e109148d357a7.svg",
+    "index.html": "/emotion-trashcan/index.html",
+    "main.ccc24574.css.map": "/emotion-trashcan/static/css/main.ccc24574.css.map",
+    "main.2d707f5d.js.map": "/emotion-trashcan/static/js/main.2d707f5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccc24574.css",
+    "static/js/main.2d707f5d.js"
+  ]
+}

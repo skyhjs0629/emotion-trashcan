@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1768.73 957.27">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+    <symbol id="star-2" viewBox="0 0 3 3">
+      <circle class="cls-1" cx="1.5" cy="1.5" r="1.5"/>
+    </symbol>
+  </defs>
+  <g id="_레이어_1-2" data-name="레이어 1">
+    <g>
+      <use width="3" height="3" transform="translate(505.5 199.5)" xlink:href="#star-2"/>
+      <g>
+        <use width="3" height="3" transform="translate(777.44 311.25)" xlink:href="#star-2"/>
+        <use width="3" height="3" transform="translate(306.64 435.29)" xlink:href="#star-2"/>
+        <use width="3" height="3" transform="translate(741.89 697.31)" xlink:href="#star-2"/>
+        <use width="3" height="3" transform="translate(933.95 159.44)" xlink:href="#star-2"/>
+        <use width="3" height="3" transform="translate(130.14 89.89)" xlink:href="#star-2"/>
+        <use width="3" height="3" transform="translate(582.26 464.75)" xlink:href="#star-2"/>
+        <use width="3" height="3" transform="translate(266.5 836.52)" xlink:href="#star-2"/>
+        <use width="3" height="3" transform="translate(1256.16 635.24)" xlink:href="#star-2"/>
+        <use width="3" height="3" transform="translate(1671.06 873.75)" xlink:href="#star-2"/>
+        <use width="3" height="3" transform="translate(862.97 508.4)" xlink:href="#star-2"/>
+        <use width="3" height="3" transform="translate(1105.96 334.65)" xlink:href="#star-2"/>
+        <use width="3" height="3" transform="translate(1434.27)" xlink:href="#star-2"/>
+        <use width="3" height="3" transform="translate(1573.68 350.15)" xlink:href="#star-2"/>
+        <use width="3" height="3" transform="translate(1765.73 803.9)" xlink:href="#star-2"/>
+        <use width="3" height="3" transform="translate(0 653.68)" xlink:href="#star-2"/>
+        <use width="3" height="3" transform="translate(103.8 954.27)" xlink:href="#star-2"/>
+        <use width="3" height="3" transform="translate(1296.41 165.77)" xlink:href="#star-2"/>
+        <use width="3" height="3" transform="translate(823.83 472.4)" xlink:href="#star-2"/>
+      </g>
+      <g>
+        <use width="3" height="3" transform="translate(891.32 643.74) scale(.75)" xlink:href="#star-2"/>
+        <use width="3" height="3" transform="translate(610.6 57.81) scale(.75)" xlink:href="#star-2"/>
+        <use width="3" height="3" transform="translate(386.94 514.44) scale(.75)" xlink:href="#star-2"/>
+        <use width="3" height="3" transform="translate(1269.9 493.46) scale(.75)" xlink:href="#star-2"/>
+      </g>
+      <g>
+        <use width="3" height="3" transform="translate(1370.88 880.23) scale(.43)" xlink:href="#star-2"/>
+        <use width="3" height="3" transform="translate(1720.33 683) scale(.43)" xlink:href="#star-2"/>
+      </g>
+      <use width="3" height="3" transform="translate(596.02 914.11) scale(.56)" xlink:href="#star-2"/>
+    </g>
+  </g>
+</svg>
